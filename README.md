@@ -19,5 +19,5 @@ Agenda dag 22 d. 6-11-2017
 
 * [HashSet](https://www.javatpoint.com/java-hashset)
 * [TreeSet](https://www.javatpoint.com/java-treeset)
-* []()
-* []()
+* [HashMap](https://www.javatpoint.com/java-hashmap)
+* [TreeMap](https://www.javatpoint.com/java-treemap)
