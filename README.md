@@ -12,7 +12,6 @@ Agenda dag 22 d. 6-11-2017
 ## Clases
 * [HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html)
 * [TreeSet](https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html)
-
 * [HashMap]()
 * [TreeMap](https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html)
 
@@ -20,6 +19,5 @@ Agenda dag 22 d. 6-11-2017
 
 * [HashSet](https://www.javatpoint.com/java-hashset)
 * [TreeSet](https://www.javatpoint.com/java-treeset)
-
 * []()
 * []()
